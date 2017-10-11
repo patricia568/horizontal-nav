@@ -10,6 +10,7 @@ html {
   font-family: "Bevan", sans-serif;
   line-height: 1.5;
   background-color: #dbd6cf;
+  margin: 0;
 }
 
 h1 {
@@ -43,4 +44,6 @@ a:hover {
 header {
   background-color: #79756f;
   padding-bottom: 20px;
+  border-width: 10px;
+  border-color: #595652;
 }
