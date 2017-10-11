@@ -44,6 +44,7 @@ a:hover {
 header {
   background-color: #79756f;
   padding-bottom: 20px;
+  border-style: solid;
   border-width: 10px;
   border-color: #595652;
 }
