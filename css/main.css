@@ -7,7 +7,7 @@ html {
 }
 
 html {
-  font-family: "Bevan", sans-serif;
+  font-family: "Bevan", serif;
   line-height: 1.5;
   background-color: #dbd6cf;
   margin: 0;
@@ -21,6 +21,8 @@ h1 {
 
 a {
   color: #fff;
+  font-style: normal;
+  font-family: "Bevan", sans-serif;
   background-color: #713837;
   text-decoration: none;
   padding: .6em .5em .75em;
