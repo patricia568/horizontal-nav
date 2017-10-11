@@ -15,6 +15,7 @@ html {
 h1 {
   text-align: center;
   color: #fff;
+  margin: 0;
 }
 
 a {
@@ -41,4 +42,5 @@ a:hover {
 
 header {
   background-color: #79756f;
+  padding-bottom: 20px;
 }
