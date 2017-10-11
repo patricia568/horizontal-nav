@@ -1,23 +1,20 @@
 html {
   box-sizing: border-box;
-}
-
-*, *::before, *::after {
-  box-sizing: inherit;
-}
-
-html {
   font-family: 'Bevan', serif;
   line-height: 1.5;
   background-color: #dbd6cf;
   margin: 0;
 }
 
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
 h1 {
   font-family: 'Bevan', serif;
   text-align: center;
   color: #fff;
-  margin: 0px;
+  margin: 0;
 }
 
 a {
@@ -36,7 +33,7 @@ ul {
   list-style-type: none;
 }
 
-li{
+li {
   display: inline-block;
 }
 
