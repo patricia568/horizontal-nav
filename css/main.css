@@ -23,6 +23,7 @@ a {
   text-decoration: none;
   padding: .6em .5em .75em;
   margin: .3em;
+  border-radius: 5px
 }
 
 ul {
