@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: Bevan, serif;
+  font-family: Bevan;
   line-height: 1.5;
   background-color: #dbd6cf;
   margin: 0;
@@ -11,7 +11,7 @@ html {
 }
 
 h1 {
-  font-family: Bevan, sans-serif;
+  font-family: Bevan;
   text-align: center;
   color: #fff;
   margin: 0;
@@ -20,12 +20,12 @@ h1 {
 a {
   color: #fff;
   font-style: normal;
-  font-family: Bevan, sans-serif;
+  font-family: sans-serif;
   background-color: #713837;
   text-decoration: none;
   padding: .6em .5em .75em;
   margin: .3em;
-  border-radius: 3px;
+  border-radius: 5px;
 }
 
 ul {
@@ -44,6 +44,6 @@ a:hover {
 header {
   background-color: #79756f;
   padding-bottom: 20px;
-  border-top: 5px solid #595652;
-  border-bottom: 5px solid #595652;
+  border-top: 3px solid #595652;
+  border-bottom: 3px solid #595652;
 }
