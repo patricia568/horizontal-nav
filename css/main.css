@@ -11,3 +11,11 @@ html {
   line-height: 1.5;
   background-color: #dbd6cf;
 }
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+}
