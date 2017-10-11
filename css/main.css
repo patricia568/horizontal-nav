@@ -17,9 +17,17 @@ h1 {
 }
 
 a {
-  text-align: center;
-  list-style-type: none;
   color: #fff;
   background-color: #713837;
   display: inline-block;
+  text-decoration: none;
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
+}
+
+a:hover {
+  color: #f33;
 }
